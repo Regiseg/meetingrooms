@@ -1,0 +1,1 @@
+CREATE TABLE if NOT EXISTS meetingrooms(id BIGINT NOT NULL AUTO_INCREMENT, mr_name VARCHAR(255), mr_width INT, mr_length INT, PRIMARY KEY(id));
